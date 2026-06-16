@@ -1,4 +1,39 @@
-.venv
-Practica_1.ipynb
-Practica_1_Documentada.py
-sample.ipynb
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# Docker/PostgreSQL local data, if any
+postgres_data/
+pgdata/
+
+# Python packaging/cache
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
