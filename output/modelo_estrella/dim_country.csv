@@ -1,0 +1,223 @@
+country_id,country,country_key,security_region,gci_level,ncsi_level,ddl_level,has_complete_security_index,subregion,internet_region,internet_penetration_level
+1,Afghanistan,afghanistan,Asia-Pacific,Bajo,Bajo,Bajo,True,Southern Asia,Asia,Baja
+2,Albania,albania,Europe,Medio,Medio,Medio,True,Southern Europe,Europe,Alta
+3,Algeria,algeria,Africa,Bajo,Bajo,Medio,True,Northern Africa,Africa,Media
+4,Andorra,andorra,Europe,Bajo,Sin dato,Sin dato,False,Southern Europe,Europe,Muy alta
+5,Angola,angola,Africa,Bajo,Bajo,Bajo,False,Middle Africa,Africa,Baja
+6,Anguilla,anguilla,,,,,,Caribbean,Americas,Alta
+7,Antigua and Barbuda,antigua_and_barbuda,North America,Bajo,Bajo,Medio,False,Caribbean,Americas,Alta
+8,Argentina,argentina,South America,Medio,Medio,Medio,True,South America,Americas,Alta
+9,Armenia,armenia,Europe,Medio,Bajo,Medio,True,Western Asia,Asia,Alta
+10,Aruba (Netherlands),aruba_netherlands,,,,,,Caribbean,Americas,Muy alta
+11,Australia,australia,Asia-Pacific,Muy alto,Medio,Alto,True,"Australia, New Zealand",Oceania,Muy alta
+12,Austria,austria,Europe,Muy alto,Medio,Alto,True,Western Europe,Europe,Alta
+13,Azerbaijan,azerbaijan,Europe,Muy alto,Medio,Medio,True,Western Asia,Asia,Alta
+14,Bahamas,bahamas,North America,Bajo,Bajo,Medio,False,Caribbean,Americas,Alta
+15,Bahrain,bahrain,Asia-Pacific,Alto,Bajo,Medio,False,Western Asia,Asia,Muy alta
+16,Bangladesh,bangladesh,Asia-Pacific,Alto,Medio,Bajo,True,Southern Asia,Asia,Alta
+17,Barbados,barbados,North America,Bajo,Bajo,Alto,False,Caribbean,Americas,Alta
+18,Belarus,belarus,Europe,Medio,Medio,Medio,True,Eastern Europe,Europe,Alta
+19,Belgium,belgium,Europe,Muy alto,Muy alto,Alto,True,Western Europe,Europe,Alta
+20,Belize,belize,North America,Bajo,Bajo,Bajo,False,Central America,Americas,Media
+21,Benin,benin,Africa,Alto,Medio,Bajo,False,Western Africa,Africa,Baja
+22,Bermuda,bermuda,,,,,,Northern America,Americas,Muy alta
+23,Bhutan,bhutan,Asia-Pacific,Bajo,Bajo,Bajo,False,Southern Asia,Asia,Media
+24,Bolivia,bolivia,South America,Bajo,Bajo,Medio,True,South America,Americas,Media
+25,Bosnia and Herzegovina,bosnia_and_herzegovina,Europe,Bajo,Bajo,Medio,True,Southern Europe,Europe,Alta
+26,Botswana,botswana,Africa,Medio,Bajo,Medio,False,Southern Africa,Africa,Baja
+27,Brazil,brazil,South America,Muy alto,Medio,Medio,True,South America,Americas,Alta
+28,British Virgin Islands,british_virgin_islands,,,,,,Caribbean,Americas,Media
+29,Brunei,brunei,,,,,,South-eastern Asia,Asia,Muy alta
+30,Brunei Darussalam,brunei_darussalam,Asia-Pacific,Medio,Medio,Medio,False,,,
+31,Bulgaria,bulgaria,Europe,Medio,Alto,Medio,True,Eastern Europe,Europe,Media
+32,Burkina Faso,burkina_faso,Africa,Bajo,Sin dato,Sin dato,False,Western Africa,Africa,Baja
+33,Burundi,burundi,Africa,Bajo,Bajo,Bajo,False,Eastern Africa,Africa,Baja
+34,Cabo Verde,cabo_verde,Africa,Bajo,Sin dato,Sin dato,False,Western Africa,Africa,Media
+35,Cambodia,cambodia,Asia-Pacific,Bajo,Bajo,Bajo,True,South-eastern Asia,Asia,Baja
+36,Cameroon,cameroon,Africa,Medio,Bajo,Bajo,True,Middle Africa,Africa,Baja
+37,Canada,canada,North America,Muy alto,Alto,Alto,True,Northern America,Americas,Alta
+38,Cayman Islands,cayman_islands,,,,,,Caribbean,Americas,Alta
+39,Central African Republic,central_african_republic,Africa,Bajo,Sin dato,Sin dato,False,Middle Africa,Africa,Baja
+40,Chad,chad,Africa,Medio,Bajo,Bajo,False,Middle Africa,Africa,Baja
+41,Chile,chile,South America,Medio,Medio,Medio,True,South America,Americas,Alta
+42,China,china,Asia-Pacific,Muy alto,Medio,Medio,True,Eastern Asia,Asia,Alta
+43,Colombia,colombia,South America,Medio,Medio,Medio,True,South America,Americas,Alta
+44,Comoros,comoros,Africa,Bajo,Sin dato,Sin dato,False,Eastern Africa,Africa,Baja
+45,Congo,congo,Africa,Bajo,Bajo,Bajo,False,Middle Africa,Africa,Baja
+46,Costa Rica,costa_rica,North America,Medio,Medio,Medio,True,Central America,Americas,Media
+47,Cote d'ivoire,cote_d_ivoire,North America,Medio,Bajo,Bajo,False,,,
+48,Croatia,croatia,Europe,Muy alto,Alto,Alto,True,Southern Europe,Europe,Media
+49,Cuba,cuba,North America,Medio,Bajo,Bajo,False,Caribbean,Americas,Media
+50,Cyprus,cyprus,Europe,Muy alto,Medio,Medio,True,Western Asia,Asia,Alta
+51,Czech Republic,czech_republic,Europe,Alto,Muy alto,Medio,True,Eastern Europe,Europe,Alta
+52,Côte d'Ivoire,cote_d_ivoire,,,,,,Western Africa,Africa,Baja
+53,Democratic Republic of the Congo,democratic_republic_of_the_congo,,,,,,Middle Africa,Africa,Baja
+54,Denmark,denmark,Europe,Muy alto,Alto,Alto,True,Northern Europe,Europe,Muy alta
+55,Djibouti,djibouti,Africa,Bajo,Sin dato,Sin dato,False,Eastern Africa,Africa,Media
+56,Dominica,dominica,North America,Bajo,Bajo,Medio,False,Caribbean,Americas,Alta
+57,Dominican Republic,dominican_republic,North America,Alto,Alto,Medio,True,Caribbean,Americas,Media
+58,East Timor,east_timor,,,,,,South-eastern Asia,Asia,Baja
+59,Ecuador,ecuador,South America,Bajo,Medio,Medio,True,South America,Americas,Media
+60,Egypt,egypt,Africa,Muy alto,Medio,Medio,True,Northern Africa,Africa,Alta
+61,El Salvador,el_salvador,North America,Bajo,Bajo,Bajo,True,Central America,Americas,Baja
+62,Equatorial Guinea,equatorial_guinea,Africa,Bajo,Sin dato,Sin dato,False,Middle Africa,Africa,Baja
+63,Eritrea,eritrea,Africa,Bajo,Sin dato,Sin dato,False,Eastern Africa,Africa,Baja
+64,Estonia,estonia,Europe,Muy alto,Muy alto,Alto,True,Northern Europe,Europe,Muy alta
+65,Eswatini,eswatini,Africa,Bajo,Sin dato,Sin dato,False,Southern Africa,Africa,Baja
+66,Ethiopia,ethiopia,Africa,Bajo,Bajo,Bajo,True,Eastern Africa,Africa,Baja
+67,Falkland Islands,falkland_islands,,,,,,South America,Americas,Alta
+68,Faroe Islands,faroe_islands,,,,,,Northern Europe,Europe,Muy alta
+69,Fiji,fiji,Asia-Pacific,Bajo,Sin dato,Sin dato,False,Melanesia,Oceania,Media
+70,Finland,finland,Europe,Muy alto,Muy alto,Alto,True,Northern Europe,Europe,Muy alta
+71,France,france,Europe,Muy alto,Alto,Alto,True,Western Europe,Europe,Muy alta
+72,French Polynesia,french_polynesia,,,,,,Polynesia,Oceania,Media
+73,Gabon,gabon,Africa,Bajo,Sin dato,Sin dato,False,Middle Africa,Africa,Media
+74,Gambia,gambia,Africa,Bajo,Bajo,Sin dato,False,Western Africa,Africa,Baja
+75,Georgia,georgia,Europe,Alto,Medio,Medio,True,Western Asia,Asia,Muy alta
+76,Germany,germany,Europe,Muy alto,Muy alto,Alto,True,Western Europe,Europe,Muy alta
+77,Ghana,ghana,Africa,Muy alto,Bajo,Medio,False,Western Africa,Africa,Media
+78,Gibraltar,gibraltar,,,,,,Southern Europe,Europe,Muy alta
+79,Greece,greece,Europe,Muy alto,Muy alto,Medio,True,Southern Europe,Europe,Alta
+80,Greenland,greenland,,,,,,Northern America,Americas,Media
+81,Grenada,grenada,North America,Bajo,Bajo,Medio,False,Caribbean,Americas,Media
+82,Guam,guam,,,,,,Micronesia,Oceania,Alta
+83,Guatemala,guatemala,North America,Bajo,Bajo,Bajo,False,Central America,Americas,Media
+84,Guinea,guinea,Africa,Bajo,Sin dato,Sin dato,False,Western Africa,Africa,Baja
+85,Guinea-Bissau,guinea_bissau,Africa,Bajo,Sin dato,Sin dato,False,Western Africa,Africa,Baja
+86,Guyana,guyana,South America,Bajo,Bajo,Medio,False,South America,Americas,Baja
+87,Haiti,haiti,North America,Bajo,Bajo,Bajo,False,Caribbean,Americas,Baja
+88,Honduras,honduras,North America,Bajo,Bajo,Bajo,True,Central America,Americas,Baja
+89,"Hong Kong, China",hong_kong_china,,,,,,Eastern Asia,Asia,Muy alta
+90,Hungary,hungary,Europe,Muy alto,Medio,Medio,True,Eastern Europe,Europe,Alta
+91,Iceland,iceland,Europe,Alto,Medio,Alto,True,Northern Europe,Europe,Muy alta
+92,India,india,Asia-Pacific,Muy alto,Medio,Medio,True,Southern Asia,Asia,Media
+93,Indonesia,indonesia,Asia-Pacific,Muy alto,Bajo,Medio,True,South-eastern Asia,Asia,Alta
+94,Iran,iran,Asia-Pacific,Alto,Bajo,Medio,False,Western Asia,Asia,Alta
+95,Iraq,iraq,Asia-Pacific,Bajo,Bajo,Sin dato,False,Western Asia,Asia,Media
+96,Ireland,ireland,Europe,Muy alto,Alto,Alto,True,Northern Europe,Europe,Alta
+97,Israel,israel,Asia-Pacific,Muy alto,Medio,Alto,True,Western Asia,Asia,Alta
+98,Italy,italy,Europe,Muy alto,Alto,Medio,True,Southern Europe,Europe,Alta
+99,Jamaica,jamaica,North America,Bajo,Medio,Medio,False,Caribbean,Americas,Media
+100,Japan,japan,Asia-Pacific,Muy alto,Medio,Alto,True,Eastern Asia,Asia,Muy alta
+101,Jersey,jersey,,,,,,Northern Europe,Europe,Baja
+102,Jordan,jordan,Asia-Pacific,Alto,Bajo,Medio,True,Western Asia,Asia,Media
+103,Kazakhstan,kazakhstan,Asia-Pacific,Muy alto,Medio,Medio,True,Central Asia,Asia,Alta
+104,Kenya,kenya,Africa,Alto,Medio,Bajo,True,Eastern Africa,Africa,Baja
+105,Kiribati,kiribati,Asia-Pacific,Bajo,Bajo,Bajo,False,Micronesia,Oceania,Baja
+106,Kuwait,kuwait,Asia-Pacific,Alto,Sin dato,Sin dato,False,Western Asia,Asia,Muy alta
+107,Kyrgyzstan,kyrgyzstan,Asia-Pacific,Medio,Bajo,Medio,True,Central Asia,Asia,Baja
+108,Lao PDR,lao_pdr,Asia-Pacific,Bajo,Bajo,Bajo,False,,,
+109,Laos,laos,,,,,,South-eastern Asia,Asia,Baja
+110,Latvia,latvia,Europe,Muy alto,Alto,Medio,True,Northern Europe,Europe,Alta
+111,Lebanon,lebanon,Asia-Pacific,Bajo,Sin dato,Sin dato,False,Western Asia,Asia,Alta
+112,Lesotho,lesotho,Africa,Bajo,Sin dato,Sin dato,False,Southern Africa,Africa,Baja
+113,Liberia,liberia,Africa,Bajo,Bajo,Sin dato,False,Western Africa,Africa,Baja
+114,Libya,libya,Africa,Bajo,Bajo,Medio,True,Northern Africa,Africa,Baja
+115,Liechtenstein,liechtenstein,Europe,Bajo,Bajo,Sin dato,False,Western Europe,Europe,Muy alta
+116,Lithuania,lithuania,Europe,Muy alto,Muy alto,Medio,True,Northern Europe,Europe,Alta
+117,Luxembourg,luxembourg,Europe,Muy alto,Medio,Alto,True,Western Europe,Europe,Alta
+118,"Macau, China",macau_china,,,,,,Eastern Asia,Asia,Muy alta
+119,Madagascar,madagascar,Africa,Bajo,Bajo,Bajo,False,Eastern Africa,Africa,Baja
+120,Malawi,malawi,Africa,Bajo,Bajo,Bajo,False,Eastern Africa,Africa,Baja
+121,Malaysia,malaysia,Asia-Pacific,Muy alto,Alto,Medio,True,South-eastern Asia,Asia,Alta
+122,Maldives,maldives,Asia-Pacific,Bajo,Sin dato,Sin dato,False,Southern Asia,Asia,Media
+123,Mali,mali,Africa,Bajo,Bajo,Sin dato,False,Western Africa,Africa,Baja
+124,Malta,malta,Europe,Alto,Medio,Alto,False,Southern Europe,Europe,Media
+125,Marshall Islands,marshall_islands,Asia-Pacific,Bajo,Sin dato,Sin dato,False,Micronesia,Oceania,Media
+126,Mauritania,mauritania,Africa,Bajo,Bajo,Bajo,False,Western Africa,Africa,Baja
+127,Mauritius,mauritius,Africa,Muy alto,Medio,Medio,True,Eastern Africa,Africa,Media
+128,Mexico,mexico,North America,Alto,Bajo,Medio,True,Northern America,Americas,Alta
+129,Micronesia,micronesia,,,,,,Micronesia,Oceania,Baja
+130,Moldova,moldova,Europe,Alto,Medio,Medio,True,Eastern Europe,Europe,Media
+131,Monaco,monaco,Europe,Alto,Medio,Sin dato,False,Western Europe,Europe,Muy alta
+132,Mongolia,mongolia,Asia-Pacific,Bajo,Bajo,Medio,True,Eastern Asia,Asia,Baja
+133,Montenegro,montenegro,Europe,Medio,Bajo,Medio,False,Southern Europe,Europe,Alta
+134,Montserrat,montserrat,,,,,,Caribbean,Americas,Media
+135,Morocco,morocco,Africa,Alto,Alto,Medio,True,Northern Africa,Africa,Media
+136,Mozambique,mozambique,Africa,Bajo,Bajo,Bajo,False,Eastern Africa,Africa,Baja
+137,Myanmar,myanmar,Asia-Pacific,Bajo,Bajo,Bajo,True,South-eastern Asia,Asia,Media
+138,Namibia,namibia,Africa,Bajo,Bajo,Bajo,True,Southern Africa,Africa,Baja
+139,Nauru,nauru,Asia-Pacific,Bajo,Sin dato,Sin dato,False,Micronesia,Oceania,Media
+140,Nepal,nepal,Asia-Pacific,Medio,Bajo,Bajo,True,Southern Asia,Asia,Media
+141,Netherlands,netherlands,Europe,Muy alto,Alto,Alto,True,Western Europe,Europe,Muy alta
+142,New Caledonia,new_caledonia,,,,,,Melanesia,Oceania,Alta
+143,New Zealand,new_zealand,Asia-Pacific,Alto,Medio,Alto,True,"Australia, New Zealand",Oceania,Muy alta
+144,Nicaragua,nicaragua,North America,Bajo,Bajo,Bajo,True,Central America,Americas,Baja
+145,Niger,niger,Africa,Bajo,Sin dato,Sin dato,False,Western Africa,Africa,Baja
+146,Nigeria,nigeria,Africa,Alto,Medio,Bajo,True,Western Africa,Africa,Media
+147,Niue,niue,,,,,,Polynesia,Oceania,Media
+148,North Korea,north_korea,Asia-Pacific,Bajo,Sin dato,Sin dato,False,,,
+149,North Macedonia,north_macedonia,Europe,Muy alto,Medio,Medio,True,Southern Europe,Europe,Alta
+150,Norway,norway,Europe,Muy alto,Medio,Alto,True,Northern Europe,Europe,Muy alta
+151,Oman,oman,Asia-Pacific,Muy alto,Medio,Medio,False,Western Asia,Asia,Alta
+152,Pakistan,pakistan,Asia-Pacific,Medio,Medio,Bajo,True,Southern Asia,Asia,Alta
+153,Palau,palau,,,,,,Micronesia,Oceania,Baja
+154,Palestine,palestine,Asia-Pacific,Bajo,Sin dato,Sin dato,False,Western Asia,Asia,Media
+155,Panama,panama,North America,Bajo,Medio,Medio,True,Central America,Americas,Media
+156,Papua New Guinea,papua_new_guinea,Asia-Pacific,Bajo,Bajo,Sin dato,False,Melanesia,Oceania,Baja
+157,Paraguay,paraguay,South America,Medio,Medio,Medio,True,South America,Americas,Media
+158,Peru,peru,South America,Medio,Medio,Medio,True,South America,Americas,Media
+159,Philippines,philippines,Asia-Pacific,Alto,Medio,Medio,True,South-eastern Asia,Asia,Media
+160,Poland,poland,Europe,Muy alto,Muy alto,Medio,True,Eastern Europe,Europe,Muy alta
+161,Portugal,portugal,Europe,Muy alto,Muy alto,Medio,True,Southern Europe,Europe,Alta
+162,Puerto Rico (U.S.),puerto_rico_u_s,,,,,,Caribbean,Americas,Alta
+163,Qatar,qatar,Asia-Pacific,Muy alto,Medio,Medio,True,Western Asia,Asia,Muy alta
+164,Romania,romania,Europe,Alto,Muy alto,Medio,True,Eastern Europe,Europe,Media
+165,Russia,russia,Europe,Muy alto,Alto,Medio,True,Eastern Europe,Europe,Alta
+166,Rwanda,rwanda,Africa,Alto,Bajo,Bajo,False,Eastern Africa,Africa,Baja
+167,"Saint Helena, Ascension and Tristan da Cunha",saint_helena_ascension_and_tristan_da_cunha,,,,,,Western Africa,Africa,Media
+168,Saint Kitts and Nevis,saint_kitts_and_nevis,North America,Bajo,Bajo,Alto,False,Caribbean,Americas,Muy alta
+169,Saint Lucia,saint_lucia,North America,Bajo,Bajo,Medio,False,Caribbean,Americas,Media
+170,Saint Vincent and the Grenadines,saint_vincent_and_the_grenadines,North America,Bajo,Bajo,Medio,False,Caribbean,Americas,Media
+171,Samoa,samoa,Asia-Pacific,Bajo,Bajo,Bajo,False,Polynesia,Oceania,Baja
+172,San Marino,san_marino,Europe,Bajo,Bajo,Sin dato,False,Southern Europe,Europe,Media
+173,Sao Tome and Principe,sao_tome_and_principe,Africa,Bajo,Sin dato,Sin dato,False,,,
+174,Saudi Arabia,saudi_arabia,Asia-Pacific,Muy alto,Alto,Medio,True,Western Asia,Asia,Muy alta
+175,Senegal,senegal,Africa,Bajo,Bajo,Bajo,False,Western Africa,Africa,Baja
+176,Serbia,serbia,Europe,Muy alto,Alto,Medio,True,Southern Europe,Europe,Alta
+177,Seychelles,seychelles,Africa,Bajo,Bajo,Medio,False,Eastern Africa,Africa,Media
+178,Sierra Leone,sierra_leone,Africa,Bajo,Bajo,Sin dato,False,Western Africa,Africa,Baja
+179,Singapore,singapore,Asia-Pacific,Muy alto,Alto,Alto,True,South-eastern Asia,Asia,Alta
+180,Slovakia,slovakia,Europe,Muy alto,Alto,Medio,True,Eastern Europe,Europe,Alta
+181,Slovenia,slovenia,Europe,Alto,Medio,Medio,True,Southern Europe,Europe,Alta
+182,Solomon Islands,solomon_islands,Asia-Pacific,Bajo,Bajo,Bajo,False,Melanesia,Oceania,Baja
+183,Somalia,somalia,Africa,Bajo,Bajo,Sin dato,False,Eastern Africa,Africa,Baja
+184,South Africa,south_africa,Africa,Alto,Bajo,Medio,True,Southern Africa,Africa,Media
+185,South Korea,south_korea,Asia-Pacific,Muy alto,Medio,Alto,True,Eastern Asia,Asia,Muy alta
+186,South Sudan,south_sudan,Africa,Bajo,Bajo,Sin dato,False,Eastern Africa,Africa,Baja
+187,Spain,spain,Europe,Muy alto,Muy alto,Alto,True,Southern Europe,Europe,Alta
+188,Sri Lanka,sri_lanka,Asia-Pacific,Medio,Medio,Medio,True,Southern Asia,Asia,Baja
+189,Sudan,sudan,Africa,Bajo,Bajo,Bajo,False,Northern Africa,Africa,Baja
+190,Suriname,suriname,South America,Bajo,Bajo,Medio,False,South America,Americas,Media
+191,Sweden,sweden,Europe,Muy alto,Alto,Alto,True,Northern Europe,Europe,Muy alta
+192,Switzerland,switzerland,Europe,Muy alto,Alto,Alto,True,Western Europe,Europe,Muy alta
+193,Syria,syria,Asia-Pacific,Bajo,Bajo,Bajo,False,Western Asia,Asia,Baja
+194,São Tomé and Príncipe,sao_tome_and_principe,,,,,,Middle Africa,Africa,Baja
+195,Taiwan,taiwan,,,,,,Eastern Asia,Asia,Muy alta
+196,Tajikistan,tajikistan,Asia-Pacific,Bajo,Bajo,Bajo,False,Central Asia,Asia,Baja
+197,Tanzania,tanzania,Africa,Muy alto,Bajo,Bajo,True,Eastern Africa,Africa,Media
+198,Thailand,thailand,Asia-Pacific,Muy alto,Medio,Medio,True,South-eastern Asia,Asia,Alta
+199,Timor-Leste,timor_leste,Asia-Pacific,Bajo,Sin dato,Sin dato,False,,,
+200,Togo,togo,Africa,Bajo,Sin dato,Sin dato,False,Western Africa,Africa,Baja
+201,Tonga,tonga,Asia-Pacific,Bajo,Bajo,Medio,False,Polynesia,Oceania,Media
+202,Trinidad and Tobago,trinidad_and_tobago,North America,Bajo,Bajo,Medio,False,Caribbean,Americas,Media
+203,Tunisia,tunisia,Africa,Muy alto,Medio,Medio,True,Northern Africa,Africa,Media
+204,Turkey,turkey,Asia-Pacific,Muy alto,Medio,Medio,True,Southern Europe,Europe,Alta
+205,Turkmenistan,turkmenistan,Asia-Pacific,Bajo,Bajo,Sin dato,False,Central Asia,Asia,Baja
+206,Tuvalu,tuvalu,Asia-Pacific,Bajo,Bajo,Sin dato,False,Polynesia,Oceania,Media
+207,U.S. Virgin Islands,u_s_virgin_islands,,,,,,Caribbean,Americas,Media
+208,Uganda,uganda,Africa,Medio,Medio,Bajo,True,Eastern Africa,Africa,Baja
+209,Ukraine,ukraine,Europe,Medio,Alto,Medio,True,Eastern Europe,Europe,Media
+210,United Arab Emirates,united_arab_emirates,Asia-Pacific,Muy alto,Medio,Medio,True,Western Asia,Asia,Muy alta
+211,United Kingdom,united_kingdom,Europe,Muy alto,Muy alto,Alto,True,Northern Europe,Europe,Muy alta
+212,United States,united_states,North America,Muy alto,Medio,Alto,True,Northern America,Americas,Muy alta
+213,Uruguay,uruguay,South America,Alto,Medio,Medio,True,South America,Americas,Alta
+214,Uzbekistan,uzbekistan,Asia-Pacific,Alto,Bajo,Medio,True,Central Asia,Asia,Media
+215,Vanuatu,vanuatu,Asia-Pacific,Bajo,Bajo,Bajo,False,Melanesia,Oceania,Baja
+216,Vatican City,vatican_city,Europe,Sin dato,Bajo,Sin dato,False,,,
+217,Venezuela,venezuela,Africa,Bajo,Bajo,Medio,True,South America,Americas,Alta
+218,Vietnam,vietnam,Asia-Pacific,Muy alto,Bajo,Medio,False,South-eastern Asia,Asia,Media
+219,Wallis and Futuna,wallis_and_futuna,,,,,,Polynesia,Oceania,Baja
+220,Yemen,yemen,Asia-Pacific,Sin dato,Bajo,Sin dato,False,Western Asia,Asia,Baja
+221,Zambia,zambia,Africa,Medio,Medio,Bajo,True,Eastern Africa,Africa,Baja
+222,Zimbabwe,zimbabwe,Africa,Bajo,Bajo,Bajo,True,Eastern Africa,Africa,Baja

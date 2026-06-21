@@ -1,0 +1,7 @@
+attack_type_id,attack_type
+1,DDoS
+2,Malware
+3,Man-in-the-Middle
+4,Phishing
+5,Ransomware
+6,SQL Injection
